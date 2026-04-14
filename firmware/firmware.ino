@@ -4,6 +4,7 @@
 int16_t buffer[256];
 int valordobuffer = 256;
 
+
 void setup()
 {
  Serial.begin(115200);
